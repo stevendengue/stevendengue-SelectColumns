@@ -1,0 +1,1 @@
+SELECT firstname, lastname FROM site_user;
